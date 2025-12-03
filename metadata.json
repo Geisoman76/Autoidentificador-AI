@@ -1,0 +1,7 @@
+{
+  "name": "AutoIdentificador AI",
+  "description": "Identifique veículos instantaneamente usando IA. Basta tirar uma foto ou fazer upload para obter detalhes completos sobre marca, modelo e especificações.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
